@@ -1,3 +1,9 @@
+- [B2Opt-Learning-to-Optimize-Black-box-Optimization-with-Little-Budget](#b2opt-learning-to-optimize-black-box-optimization-with-little-budget)
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+  * [train](#train)
+  * [test](#test)
+- [Citiation](#citiation)
 # B2Opt-Learning-to-Optimize-Black-box-Optimization-with-Little-Budget
 This repository is the official implementation of the source code of the paper  [B2Opt: Learning to Optimize Black-box Optimization with Little Budget](https://arxiv.org/abs/2304.11787).
 # Installation
