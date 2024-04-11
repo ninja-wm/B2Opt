@@ -1,2 +1,5 @@
+matplotlib==3.7.5
+numpy==1.24.4
 setuptools==68.2.2
-torch==1.12.0
+torch==1.12.1+cu116
+tqdm==4.66.2
