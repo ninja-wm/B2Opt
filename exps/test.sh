@@ -1,0 +1,1 @@
+python ./main.py -d 10 -expname test1 -ems 30 -ws True -popsize 100 -lr 0.001 -mode test -target sys
