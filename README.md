@@ -4,10 +4,9 @@ This repository is the official implementation of the source code of the paper  
 
 # Installation
 
-This project requires running under the Ubuntu 20.04 system, and you need to install the cuda version of pytorch >= 1.12 first. And the python package [BBOB](https://github.com/ninja-wm/BBOB/tree/main) should be installed.
+This project requires running under the Ubuntu 20.04 system, and you need to install the cuda version of pytorch >= 1.12 first. And the python package [BBOB](https://github.com/ninja-wm/BBOB/tree/main) should be installed. Our python version is 3.8.2. First, please install the dependency packages in requirements. Then, please install B2Opt as follows:
 
 ```bash
-pip install -r requirements.txt
 git clone git@github.com:ninja-wm/B2Opt-Learning-to-Optimize-Black-box-Optimization-with-Little-Budget.git
 cd B2Opt_pkg
 ./install.sh
