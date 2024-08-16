@@ -49,17 +49,4 @@ python ./main.py -d 10 -expname test1 -ems 30 -ws True -popsize 100 -lr 0.001 -m
 The code we provide can be run directly, but it is difficult for us to guarantee that it will execute smoothly on different platforms and different operating systems. If you encounter any problems, please submit an issue to help us improve it! Grateful!
 
 
-# Citiation
 
-If our projects have been helpful to you, please cite us below! Thanks!
-
-```
-@misc{li2023b2opt,
-      title={B2Opt: Learning to Optimize Black-box Optimization with Little Budget}, 
-      author={Xiaobin Li and Kai Wu and Xiaoyu Zhang and Handing Wang and Jing Liu},
-      year={2023},
-      eprint={2304.11787},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
